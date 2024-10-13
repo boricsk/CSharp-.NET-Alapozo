@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI Elemek", "UI Elemek\UI Elemek.csproj", "{7975AB63-A524-4357-B58B-B24576ACCFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7975AB63-A524-4357-B58B-B24576ACCFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7975AB63-A524-4357-B58B-B24576ACCFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7975AB63-A524-4357-B58B-B24576ACCFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7975AB63-A524-4357-B58B-B24576ACCFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC381109-7D42-4E5F-BA70-2E99D0974022}
+	EndGlobalSection
+EndGlobal
